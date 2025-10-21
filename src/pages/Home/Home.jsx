@@ -171,14 +171,14 @@ const Home = () => {
                   <i className="fas fa-phone"></i>
                   <div>
                     <h4>الهاتف</h4>
-                    <p><a href="tel:+201234567890">01234567890</a></p>
+                    <p><a href="tel:+201069391425">01069391425</a></p>
                   </div>
                 </div>
                 <div className="contact-method">
                   <i className="fab fa-whatsapp"></i>
                   <div>
                     <h4>واتساب</h4>
-                    <p><a href="https://wa.me/201234567890" target="_blank" rel="noopener noreferrer">01234567890</a></p>
+                    <p><a href="https://wa.me/201001170088" target="_blank" rel="noopener noreferrer">01001170088</a></p>
                   </div>
                 </div>
                 <div className="contact-method">

@@ -14,14 +14,11 @@ const Footer = () => {
                             متخصصون في رفع وإنزال الأثاث المنزلي مع أكثر من 10 سنوات خبرة في المجال. نقدم خدماتنا بأعلى معايير الجودة والاحترافية.
                         </p>
                         <div className="social-links">
-                            <a href="https://facebook.com/" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.facebook.com/share/1MLHP9KYc8/" target="_blank" rel="noopener noreferrer">
                                 <i className="fab fa-facebook-f"></i>
                             </a>
-                            <a href="https://instagram.com/" target="_blank" rel="noopener noreferrer">
-                                <i className="fab fa-instagram"></i>
-                            </a>
-                            <a href="https://youtube.com/" target="_blank" rel="noopener noreferrer">
-                                <i className="fab fa-youtube"></i>
+                            <a href="https://wa.me/201001170088" target="_blank" rel="noopener noreferrer">
+                                <i className="fab fa-whatsapp"></i>
                             </a>
                         </div>
                     </div>
@@ -32,8 +29,6 @@ const Footer = () => {
                             <li><Link to="/">الرئيسية</Link></li>
                             <li><Link to="/about">من نحن</Link></li>
                             <li><Link to="/services">الخدمات</Link></li>
-                            <li><Link to="/pricing">الأسعار</Link></li>
-                            <li><Link to="/offers">العروض</Link></li>
                             <li><Link to="/faq">الأسئلة الشائعة</Link></li>
                         </ul>
                     </div>
@@ -59,11 +54,11 @@ const Footer = () => {
                             </div>
                             <div className="contact-item">
                                 <i className="fas fa-phone"></i>
-                                <span>الهاتف: 01234567890</span>
+                                <span>الهاتف: 01069391425</span>
                             </div>
                             <div className="contact-item">
                                 <i className="fab fa-whatsapp"></i>
-                                <span>واتساب: 01234567890</span>
+                                <span>واتساب: 01001170088</span>
                             </div>
                             <div className="contact-item">
                                 <i className="fas fa-envelope"></i>
