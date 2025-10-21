@@ -38,16 +38,6 @@ const Header = () => {
                 </NavLink>
               </li>
               <li>
-                <NavLink to="/pricing" onClick={() => setMenuOpen(false)}>
-                  الأسعار
-                </NavLink>
-              </li>
-              <li>
-                <NavLink to="/offers" onClick={() => setMenuOpen(false)}>
-                  العروض
-                </NavLink>
-              </li>
-              <li>
                 <NavLink to="/testimonials" onClick={() => setMenuOpen(false)}>
                   آراء العملاء
                 </NavLink>

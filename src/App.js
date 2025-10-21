@@ -5,8 +5,6 @@ import Footer from "./components/Footer/Footer";
 import Home from "./pages/Home/Home";
 import About from "./pages/About/About";
 import Services from "./pages/Services/Services";
-import Pricing from "./pages/Pricing/Pricing";
-import Offers from "./pages/Offers/Offers";
 import Contact from "./pages/Contact/Contact";
 import Testimonials from "./pages/Testimonials/Testimonials";
 import FAQ from "./pages/FAQ/FAQ";
@@ -21,8 +19,6 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/services" element={<Services />} />
-            <Route path="/pricing" element={<Pricing />} />
-            <Route path="/offers" element={<Offers />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/testimonials" element={<Testimonials />} />
             <Route path="/faq" element={<FAQ />} />
