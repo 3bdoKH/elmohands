@@ -287,7 +287,7 @@ const FAQ = () => {
                         <p>لا تتردد في التواصل معنا مباشرة للإجابة على جميع استفساراتك</p>
                         <div className="not-found-actions">
                             <Link to="/contact" className="btn btn-primary">اتصل بنا</Link>
-                            <a href="https://wa.me/201234567890" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">
+                            <a href="https://wa.me/+201001170088" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">
                                 <i className="fab fa-whatsapp"></i> واتساب
                             </a>
                         </div>

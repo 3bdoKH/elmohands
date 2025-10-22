@@ -64,54 +64,6 @@ const About = () => {
         </div>
       </section>
 
-      {/* Our Team */}
-      <section className="team-section section">
-        <div className="container">
-          <h2 className="section-title">فريق العمل</h2>
-          <div className="team-grid">
-            <div className="team-member">
-              <div className="member-image">
-                <img src={testimonial} alt="أحمد محمد" />
-              </div>
-              <h3>أحمد محمد</h3>
-              <p>المدير التنفيذي</p>
-              <div className="member-desc">
-                <p>خبرة أكثر من 15 عاماً في مجال رفع الأثاث</p>
-              </div>
-            </div>
-            <div className="team-member">
-              <div className="member-image">
-                <img src={testimonial} alt="محمد علي" />
-              </div>
-              <h3>محمد علي</h3>
-              <p>رئيس فريق الأوناش</p>
-              <div className="member-desc">
-                <p>متخصص في تشغيل الأوناش بخبرة 10 سنوات</p>
-              </div>
-            </div>
-            <div className="team-member">
-              <div className="member-image">
-                <img src={testimonial} alt="علي حسن" />
-              </div>
-              <h3>علي حسن</h3>
-              <p>رئيس النجارين</p>
-              <div className="member-desc">
-                <p>خبير في فك وتركيب مختلف أنواع الأثاث</p>
-              </div>
-            </div>
-            <div className="team-member">
-              <div className="member-image">
-                <img src={testimonial} alt="سامي محمود" />
-              </div>
-              <h3>سامي محمود</h3>
-              <p>فني تكييف</p>
-              <div className="member-desc">
-                <p>متخصص في فك وتركيب وصيانة أجهزة التكييف</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
 
       {/* Experience */}
       <section className="experience-section section">
@@ -119,7 +71,7 @@ const About = () => {
           <h2 className="section-title">خبراتنا</h2>
           <div className="experience-stats">
             <div className="stat-item">
-              <div className="stat-number">10+</div>
+              <div className="stat-number">15+</div>
               <div className="stat-text">سنوات من الخبرة</div>
             </div>
             <div className="stat-item">

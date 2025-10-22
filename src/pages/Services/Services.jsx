@@ -49,7 +49,7 @@ const Services = () => {
               className={`service-tab ${activeService === 'carpentry' ? 'active' : ''}`}
               onClick={() => handleServiceClick('carpentry')}
             >
-              نجاريين متخصصين
+              نجارين متخصصين
             </button>
             <button
               className={`service-tab ${activeService === 'ac' ? 'active' : ''}`}
@@ -129,11 +129,11 @@ const Services = () => {
             className={`service-detail ${activeService === 'carpentry' ? 'active' : ''}`}
           >
             <div className="service-header">
-              <h2>خدمة نجاريين متخصصين</h2>
+              <h2>خدمة نجارين متخصصين</h2>
             </div>
             <div className="service-content">
               <div className="service-image">
-                <img src={image2} alt="نجاريين متخصصين" />
+                <img src={image2} alt="نجارين متخصصين" />
               </div>
               <div className="service-info">
                 <p>
