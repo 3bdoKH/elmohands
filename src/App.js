@@ -24,6 +24,19 @@ function App() {
             <Route path="/faq" element={<FAQ />} />
           </Routes>
         </main>
+        <div className="floating-action-buttons">
+          <a
+            href="https://wa.me/+201069391425"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="floating-btn whatsapp-btn"
+          >
+            <i className="fab fa-whatsapp"></i>
+          </a>
+          <a href="tel:+201069391425" className="floating-btn phone-btn">
+            <i className="fas fa-phone-alt"></i>
+          </a>
+        </div>
         <Footer />
       </div>
     </Router>
