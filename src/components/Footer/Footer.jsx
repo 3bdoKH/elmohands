@@ -17,7 +17,7 @@ const Footer = () => {
                             <a href="https://www.facebook.com/share/1MLHP9KYc8/" target="_blank" rel="noopener noreferrer">
                                 <i className="fab fa-facebook-f"></i>
                             </a>
-                            <a href="https://wa.me/201001170088" target="_blank" rel="noopener noreferrer">
+                            <a href="https://wa.me/201069391425" target="_blank" rel="noopener noreferrer">
                                 <i className="fab fa-whatsapp"></i>
                             </a>
                         </div>
@@ -54,11 +54,11 @@ const Footer = () => {
                             </div>
                             <div className="contact-item">
                                 <i className="fas fa-phone"></i>
-                                <span>الهاتف: 01069391425</span>
+                                <span>الهاتف: 01001170088</span>
                             </div>
                             <div className="contact-item">
                                 <i className="fab fa-whatsapp"></i>
-                                <span>واتساب: 01001170088</span>
+                                <span>واتساب: 01069391425</span>
                             </div>
                             <div className="contact-item">
                                 <i className="fas fa-envelope"></i>

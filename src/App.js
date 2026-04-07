@@ -33,7 +33,7 @@ function App() {
           >
             <i className="fab fa-whatsapp"></i>
           </a>
-          <a href="tel:+201069391425" className="floating-btn phone-btn">
+          <a href="tel:+201001170088" className="floating-btn phone-btn">
             <i className="fas fa-phone-alt"></i>
           </a>
         </div>

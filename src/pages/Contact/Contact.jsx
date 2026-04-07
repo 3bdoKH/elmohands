@@ -75,7 +75,6 @@ const Contact = () => {
                   <div className="method-details">
                     <h3>اتصل بنا</h3>
                     <p>متاحون على مدار الساعة طوال أيام الأسبوع</p>
-                    <a href="tel:+201069391425" className="contact-link">01069391425</a>
                     <a href="tel:+201001170088" className="contact-link">01001170088</a>
                   </div>
                 </div>
@@ -88,7 +87,6 @@ const Contact = () => {
                     <h3>واتساب</h3>
                     <p>تواصل معنا مباشرة عبر الواتساب</p>
                     <a href="https://wa.me/+201069391425" target="_blank" rel="noopener noreferrer" className="contact-link">01069391425</a>
-                    <a href="https://wa.me/+201001170088" target="_blank" rel="noopener noreferrer" className="contact-link">01001170088</a>
                   </div>
                 </div>
 
@@ -277,24 +275,9 @@ const Contact = () => {
             </p>
 
             <div className="social-links-large">
-              <a href="https://facebook.com/" target="_blank" rel="noopener noreferrer" className="social-link facebook">
+              <a href="https://www.facebook.com/share/1MLHP9KYc8/" target="_blank" rel="noopener noreferrer" className="social-link facebook">
                 <i className="fab fa-facebook-f"></i>
                 <span>فيسبوك</span>
-              </a>
-
-              <a href="https://instagram.com/" target="_blank" rel="noopener noreferrer" className="social-link instagram">
-                <i className="fab fa-instagram"></i>
-                <span>انستغرام</span>
-              </a>
-
-              <a href="https://youtube.com/" target="_blank" rel="noopener noreferrer" className="social-link youtube">
-                <i className="fab fa-youtube"></i>
-                <span>يوتيوب</span>
-              </a>
-
-              <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" className="social-link twitter">
-                <i className="fab fa-twitter"></i>
-                <span>تويتر</span>
               </a>
             </div>
           </div>
