@@ -1,5 +1,5 @@
 import './About.css';
-import { image1, image2, image3, image4, testimonial } from '../../utils/imports';
+import { image3 } from '../../utils/imports';
 const About = () => {
   return (
     <div className="about-page">

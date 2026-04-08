@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import './Home.css';
-import { image1, image2, image3, image4, logo } from '../../utils/imports';
+import { image2, image3, image4, logo } from '../../utils/imports';
 const Home = () => {
   return (
     <div className="home-page">
