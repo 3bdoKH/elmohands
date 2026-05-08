@@ -72,6 +72,9 @@ const Footer = () => {
                     <p>
                         &copy; {currentYear} أوناش المهندس. جميع الحقوق محفوظة.
                     </p>
+                    <p className="agency-credit">
+                        تم التطوير بواسطة <a href="https://adams-agency.online" target="_blank" rel="noopener noreferrer">Adam's Agency</a>
+                    </p>
                 </div>
             </div>
         </footer>
